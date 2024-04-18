@@ -7,5 +7,6 @@ public class Task07 {
         System.out.println("итоговая сумма "+ itg);
 
 
+
     }
 }
