@@ -7,5 +7,6 @@ public class task03 {
         float n = Math.round(sc.nextFloat());
         System.out.println("Result=" + n);
 
+
     }
 }
