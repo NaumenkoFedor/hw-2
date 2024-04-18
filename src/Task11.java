@@ -6,6 +6,7 @@ public class Task11
         long days = startSecond / 86400;
         long hours = (days) / 3600;
         long minutes = (hours) / 60;
+
         long seconds = (minutes) % 60;
         System.out.println(days
                 + " "
